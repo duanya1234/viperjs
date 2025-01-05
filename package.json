@@ -90,7 +90,7 @@
     "remark-breaks": "^2.0.0",
     "remark-gfm": "^2.0.0",
     "xterm": "^4.13.0",
-    "xterm-addon-fit": "^0.2.1"
+    "xterm-addon-fit": "^0.8.0"
   },
   "devDependencies": {
     "@types/react": "^16.14.8",
