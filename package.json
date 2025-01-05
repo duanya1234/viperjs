@@ -72,7 +72,7 @@
     "rc-resize-observer": "^0.2.5",
     "re-resizable": "^6.9.11",
     "react": "^16.12.0",
-    "react-container-query": "^0.11.0",
+    "react-container-query": "^0.13.0",
     "react-contextmenu": "^2.13.0",
     "react-copy-to-clipboard": "^5.0.1",
     "react-document-title": "^2.0.3",
